@@ -1,7 +1,5 @@
-# IEEE_LearningDecisionVariables
+# Code for Learning Decision Variables in Many-Objective Optimization Problems
 
-
-# Code for LearningDecisionVariables
 
 ![Graphical abstract](/ProjectImages/graphical_abstract.png)
 
